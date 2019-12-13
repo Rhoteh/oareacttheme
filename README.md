@@ -1,21 +1,3 @@
-# oareacttheme
-Pretty basic wordpress API theme bootstrapped with [Create React App], works on any wordpress installation.
-
-/*
-Theme Name: oareacttheme
-Author: Oluwarotimi Akintan
-Author URI: https://github.com/Rhoteh
-Description: React App WP Theme by Oluwarotimi Akintan
-Version: 0.1
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: starter
-Text Domain: https://oadev.site
-
-This theme, like WordPress, is licensed under the GPL.
-*/
-
-Oroginal Create React App, Readme Content:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
