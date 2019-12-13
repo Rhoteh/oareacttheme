@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/oareacttheme/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/oareacttheme/static/js/main.chunk.js",
+    "main.js.map": "/wp-content/themes/oareacttheme/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/oareacttheme/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/oareacttheme/static/js/bundle.js.map",
+    "static/js/2.chunk.js": "/wp-content/themes/oareacttheme/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/oareacttheme/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/oareacttheme/index.php",
+    "precache-manifest.a6858ff057cde0e3dbf4958e64a8cdce.js": "/wp-content/themes/oareacttheme/precache-manifest.a6858ff057cde0e3dbf4958e64a8cdce.js",
+    "service-worker.js": "/wp-content/themes/oareacttheme/service-worker.js",
+    "static/css/main.chunk.css.map": "/wp-content/themes/oareacttheme/static/css/main.chunk.css.map",
+    "static/media/logo.svg": "/wp-content/themes/oareacttheme/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
